@@ -22,6 +22,14 @@ ML libraries used anywhere in the pipeline.
 
 ---
 
+## Output
+
+<img width="419" height="839" alt="image" src="https://github.com/user-attachments/assets/031c172d-5fee-469d-a292-e7048866336c" />
+
+
+---
+
+
 ## 1. Data Preprocessing (Python — `iris_flower_classification.py`)
 
 ### 1.1 Exploratory Data Analysis
